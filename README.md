@@ -25,7 +25,7 @@ Un document Jupyter Notebook care permite executia pas-cu-pas a unei serii de in
 
 ### Descriere
 
-Datele despre pozitia in timp real a vehiculelor de transport urban, trecute in regim de Date Libere de catre Tranzy AI, permite (intre altele) dezvoltarea unor metode de analiza a modului de deplasare a mijlocacelor de transport in comun (si de ce nu? - prin extrapolare - o analiza a traficului) din municipiu. 
+Datele despre pozitia in timp real a vehiculelor de transport urban, trecute in regim de Date Libere de catre Tranzy AI, permite (intre altele) dezvoltarea unor metode de analiza a modului de deplasare a mijloacelor de transport in comun (si de ce nu? - prin extrapolare - o analiza a traficului) din municipiu. 
 
 Prezentul proiect se limiteaza la a arata o metoda de lucru bazata pe functiile POSTGIS. Integrarea interogarilor spatiale intr-un document Jupyter Notebook s-a facut cu scopul de a familiariza utilizatorul cu modul de utilizare a functiilor POSTGIS. Rezultatul interogarilor e usor de vizualizat - fie in forma tabelara, fie - in special - sub forma de harta (cu ajutorul librariei cartoframes).
 

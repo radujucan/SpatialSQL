@@ -1,13 +1,13 @@
 
 <br/>
 <p align="center">
-  <h3 align="center">Analiza transportului in comun din Cluj-Napoca</h3>
+  <h1 align="center">Analiza transportului in comun din Cluj-Napoca</h3>
 
-  <p align="center">
+  <h2 align="center">
     cu ajutorul datelor open de la Tranzy AI - folosind Postrgresql si POSTGIS -
     <br/>
     <br/>
-  </p>
+ 
 </p>
 
 
@@ -19,7 +19,7 @@ Un document Jupyter Notebook care permite executia pas-cu-pas a unei serii de in
 
 ## Continutul Proiectului
 
-* Jupyter Notebook
+* 1 document Jupyter Notebook
 * 2 fisiere SQL cu date care sa faciliteze executia analizei  
 
 
@@ -39,3 +39,4 @@ Initiativa Tranzy AI de a face publice datele, m-a motivat sa fac - de asemeni, 
 
 Daca prezentul proiect e limitat la zona metropolitana Cluj-Napoca, nu uitati ca Tranzy AI opereaza si ofera date despre transportul in comun din Iasi, Botosani, Chisinau - prin urmare - localnicilor sau celor interesati - spor la adaptat metoda de analiza. 
 
+##### mai.2023

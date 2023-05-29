@@ -37,4 +37,5 @@ In functie de volumul datelor utilizate, parcurgerea tuturor pasilor de analiza 
 
 Initiativa Tranzy AI de a face publice datele, m-a motivat sa fac - de asemeni, publica - metoda de analiza. 
 
-Daca prezentul proiect e limitat la zona metropolitana Cluj-Napoca, nu uitati ca Tranzy AI opereaza si ofera date despre transportul in comun din Iasi, Botosani, Chisinau - prin urmare - spor la adaptat metoda de analiza. 
+Daca prezentul proiect e limitat la zona metropolitana Cluj-Napoca, nu uitati ca Tranzy AI opereaza si ofera date despre transportul in comun din Iasi, Botosani, Chisinau - prin urmare - localnicilor sau celor interesati - spor la adaptat metoda de analiza. 
+

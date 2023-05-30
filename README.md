@@ -15,7 +15,7 @@
 ## Despre Proiect
 
 Un document Jupyter Notebook care permite executia pas-cu-pas a unei serii de instructiuni pentru analiza transportului in comun in Cluj-Napoca. 
-<img  align="center" src="pic/viteze_vehicule_cluj.png">
+<br/><br/><img  align="center" src="pic/viteze_vehicule_cluj.png">
 
 ## Continutul Proiectului
 
